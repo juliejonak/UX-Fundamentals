@@ -25,6 +25,8 @@ g. [](#)  <br>
 
 [Accessibile Design: Web tool for finding accessible color palettes](https://color.review/)  
 
+[How to Write a Case Study Guide](https://learn.g2crowd.com/hubfs/Learning%20Hub%20-%20Downloadable%20Assets/Checklist%20-%20How%20to%20Write%20a%20Casestudy.pdf?__hstc=171774463.685f350c95c522e5a80bb3aa6a146a7e.1567741659898.1567741659898.1567741659898.1&__hssc=171774463.1.1567741659899&__hsfp=2233295263&hsCtaTracking=6f5b790f-114a-4707-bb93-e21af3780469%7Ccd3d1e89-2a1b-4936-a09a-c0434b0648a4)  
+
 <br>
 <br>
 
