@@ -72,7 +72,24 @@ Make sure that your other social media profiles are on highly private settings t
 
 Some influential Twitter UX designers are:
 
-@vanschneider @phlntn @scottmccloud @skrug @jnd1er @wasbuxton @ireneau @usabilitycounts @lauraklein @Olof_S @lukew @janepyle @khoi @cbehrlich @peterme @jbrewer @astadapasta @mspowahs
+[@vanschneider](https://twitter.com/vanschneider)   
+[@phlntn](https://twitter.com/phlntn)   
+[@scottmccloud](https://twitter.com/scottmccloud)  
+[@skrug](https://twitter.com/skrug)  
+[@jnd1er](https://twitter.com/jnd1er)  
+[@wasbuxton](https://twitter.com/wasbuxton)  
+[@ireneau](https://twitter.com/ireneau)  
+[@usabilitycounts](https://twitter.com/usabilitycounts)  
+[@lauraklein](https://twitter.com/lauraklein)  
+[@Olof_S](https://twitter.com/Olof_S)  
+[@lukew](https://twitter.com/lukew)  
+[@janepyle](https://twitter.com/janepyle)  
+[@khoi](https://twitter.com/khoi)  
+[@cbehrlich](https://twitter.com/cbehrlich)  
+[@peterme](https://twitter.com/peterme)  
+[@jbrewer](https://twitter.com/jbrewer)  
+[@astadapasta](https://twitter.com/astadapasta)  
+[@mspowahs](https://twitter.com/mspowahs)  
 
 <br>
 <br>
