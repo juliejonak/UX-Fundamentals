@@ -1,12 +1,11 @@
 # Lecture II: UX Career
 
 a. [Additional Resources](#Additional-Resources)  <br>
-b. [](#)  <br>
-c. [](#)  <br>
-d. [](#)  <br>
-e. [](#)  <br>
-f. [](#)  <br>
-g. [](#)  <br>
+b. [Design Principles](#Design-Principles)  <br>
+c. [Social Platforms](#Social-Platforms)  <br>
+d. [Trend Reports and Portfolios](#Trend-Reports-and-Portfolios)  <br>
+
+<br>
 
 
 ## Additional Resources
