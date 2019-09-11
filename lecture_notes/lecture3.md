@@ -12,6 +12,8 @@ g. [](#)  <br>
 
 ## Additional Resources
 
+[Lecture III Recording: Ann-Marie Sebastian UXPT3](https://youtu.be/Hw7-qxp-B2A)  
+
 [Lecture III Assignment](https://docs.google.com/document/d/1fPOFNIMW_XiRTzAuGCkRh6z2K4i1aPZQ8OHiVSX96rI/edit)  
 
 [Lambda UX Presentations (16 min)](https://www.youtube.com/watch?v=T6uBh6d6fvU)  
