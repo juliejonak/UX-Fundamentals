@@ -1,12 +1,8 @@
 # Lecture III: Design Communication
 
 a. [Additional Resources](#Additional-Resources)  <br>
-b. [](#)  <br>
-c. [](#)  <br>
-d. [](#)  <br>
-e. [](#)  <br>
-f. [](#)  <br>
-g. [](#)  <br>
+b. [Presentations](#Presentations)  <br>
+c. [Critiquing](#Critiquing)  <br>
 
 <br>
 
