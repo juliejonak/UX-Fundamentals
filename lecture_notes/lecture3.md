@@ -115,4 +115,10 @@ To help you in your writing and presenting skills, here's an overview of words t
 `Basically/Essentially/Actually/Totally` —> Words we use to simplify but actually are empty filler
 
 <br>
+
+Keep in mind how to improve verbiage when emailing professionally:
+
+![Email Etiquette](./Email.png "Email Etiquette")
+
+<br>
 <br>
