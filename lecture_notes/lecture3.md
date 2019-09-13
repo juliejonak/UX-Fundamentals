@@ -3,6 +3,7 @@
 a. [Additional Resources](#Additional-Resources)  <br>
 b. [Presentations](#Presentations)  <br>
 c. [Critiquing](#Critiquing)  <br>
+d. [Improve Your Vocabulary](#Improve-Your-Vocabulary)  <br>  
 
 <br>
 
@@ -68,3 +69,50 @@ If you can take something away and the design/idea/purpose is going to be commun
 
 Keep in mind build efficiency as well. If your design adds significant build complexity for the developer (or creator), but doesn't add just as much improvement for the user's experience, it might not be a valuable tradeoff, depending on time and resources.
 
+<br>
+<br>
+
+## Improve Your Vocabulary
+
+To help you in your writing and presenting skills, here's an overview of words to remove from your vocabulary to become a more precise communicator:
+
+<br>
+
+`That` —> Replace with who or simply remove
+
+`Went` —> Drove, skated, walked, flew, ran, etc.
+
+`Honestly` —> Just remove it. It implies whatever else you’ve said was dishonest
+
+`Absolutely/Surely` —> Usually redundant
+
+`Very/Really` —> A magnifier, instead use the magnified word. Very happy? Ecstatic. Very sad? Melancholy or depressed
+
+`Amazing/Awesome/Great` —> Try wonderful, incredible, startling, marvelous, astonishing, astounding, remarkable, miraculous, surprising, mind-blowing, staggering…
+
+`Always/Never` —> An absolute, and how often is anything absolutely true?
+
+`Literally` —> Most often used when one means “figuratively”. If you’re using literally, it should be to describe something isn’t being exaggerated….at all.
+
+`Just` —> Filler word that can be condescending without value. It minimizes our or others’ value.
+
+`Maybe/If` —> Lessens your authority, conveys uncertainty, sounds uninformed or wishy-washy.
+
+`Stuff/Things` —> This is solely a placeholder for something better.
+
+`Irregardless` —> Literally means regardless. :wink:
+
+`Like` —> Are you a Valley Girl? No? Nix it.
+
+`Should` —> Denotes opinion, often negative judgment.
+
+`Problem` —> Instead it's a challenge. New word, less stress.
+
+`But` —> Negates what was previously said. Try to rephrase using “and”
+
+`Try` —> Be authoritative with your word and protect its value. Will you or won’t you? Best to underpromise and overdeliver.
+
+`Basically/Essentially/Actually/Totally` —> Words we use to simplify but actually are empty filler
+
+<br>
+<br>
