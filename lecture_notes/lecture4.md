@@ -1,9 +1,9 @@
 # Lecture IV: Stakeholder Management
 
 a. [Additional Resources](#Additional-Resources)  <br>  
-b. [](#)  <br>  
-c. [](#)  <br>  
-d. [](#)  <br>  
+b. [Design v Art](#Design-v-Art)  <br>  
+c. [Business Design](#Business-Design)  <br>  
+d. [Project Briefs](#Project-Briefs)  <br>  
 e. [](#)  <br>  
 f. [](#)  <br>  
 g. [](#)  <br>  
@@ -168,6 +168,104 @@ Asking if you can speak with users or employees of the client is a valid questio
 
 Another valuable opinion to provide to a client is letting them know that there may not be a need for their solution, or that their solution is very ambitious given their other constraints and proposing a simpler, MVP (minimum viable product) option to pursue.
 
+Briefs can vary in format and specificity by company and project. There are no standard tempaltes. If the company doesn't provide indicators of how detailed they want it to be, it's your skill to ask the right clarifying questions to find out what information is needed or missing. If nobody knows, your recommendation might be to conduct user research.
+
+<br>
+
+A brief that includes a cost estimate is really a proposal. Most do are focused on the technical requirements and outlines.
+
+A proper proposal would also include a certain number of included revisions to give the customer the ability to go back and forth to reach a great design. You can specify "high fidelity" or "concept sketches" to be more clear about the quality of each revision.
+
+This secures your time and worth with clients and gives you a specific boundary to request additional fees or decline the remainder of the project (if they are impossible to please).
+
+<br>
+
+As an employee, you'll estimate costs less (because you're salaried) but you will estimate timeline. 
+
+<br>
+<br>
+
+## Evaluating a Brief
+
+Let's take a look at this outline of a client's needed project. How do we evaluate it?
+
+![Flutter Brief](./Flutter.png "Flutter Brief")
+
+When the client says, "with a focus on speed, security, and social features," this could tell us their guiding principles or key goals. Our design flow should reduce the number of screens to keep things quick.
+
+The offering tells us the main features the client wants and the average user's demographics.
+
+<br>
+
+What questions are not yet answered or you're left wondering about after reading this?
+
+They want to create an app with many features (voice, video chat, stickers, games and an app store).
+
+Because of all these features, we need to ask how they want to prioritize these requests based on the core functionality of the app.
+
+> What need is this fulfilling? What problem is this solving?  
+
+<br>
+
+The client hasn't told us explicitly but we can parse it out and then ask, "Is this what you are looking for?"
+
+Rather than _assuming_, we should verify if our guess matches the client's vision.
+
+<br>
+
+The UVP (unique value proposition) is that it is a fast, secure and platform independent messaging app.
+
+But the _human need_ that it fulfills is the need to connect to others.
+
+*How* the connection happens -- it's fast, it's secure, etc. -- is the UVP. The actual human need we have to keep at the center of the project is connection.
+
+<br>
+
+Next we should evaluate what the MVP (minimum viable product) would be for this, assuming there are financial or time constraints.
+
+What has to be in the most basic, first version of this app?
+
+Security is probably a top priority because this brief mentions it multiple times. They appear to be very conscious about privacy and data.
+
+A form of communication needs to be in the MVP -- but it's unclear if their priority is voice, video or text messaging.
+
+Another goal is to be cross-platform, so what would we create first? Android, iOS?
+
+Web applications are the most ubiquitous solution that span device types, so starting with a web app and then transitioning it to more specific platform solutions would be a smart approach.
+
+<br>
+
+If you feel uncertain about the viability or direction of their requests, that's the time to do research and find out more.
+
+We have to be aware of self-centered designing when making our own assumptions of what is right or will work with the user base. It's best to go test theories and see what the actual research says.
+
+<br>
+
+> What are the goals of the product?  
+> Why is the client building this?  
+
+Usually the client has identified a need and has a goal for funding a project. We need to identify that to understand what the goals are of this product to the company as well.
+
+There has to be added value to draw customers from their existing solution to the new one you're designing.
+
+For example, consider [SuperHuman](https://superhuman.com). They optimize email handling. Their price point is roughly $40 per month. If most users have free email accounts, what value do they provide that makes that price point worthwhile to a particular user base?
+
+The users are the ones driving and informing the design process and business goals, because they are the ones using the product. The earlier we bring users into the loop, the more likely our design will be successful.
+
+<br>
+
+### Practice
+
+Take a look at [this brief](https://docs.google.com/document/d/1WuOjbm_zqjWnt_pRGOlK1pAInt60H5I6Vb6SOMjAOnI/edit) and answer the following:
+
+<br>
+
+> What are the initial business needs?  
+> What user needs is this fulfilling  
+> What requirements should the MVP have?  
+> What clarifying questions need answered?  
+
+<br>
 
 
 
