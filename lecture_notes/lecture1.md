@@ -1,7 +1,7 @@
 # Welcome to UX
 
 
-[Lecture I Recording with Ann-Marie Sebastian]()  
+[Lecture I Recording with Ann-Marie Sebastian](https://youtu.be/qdONgO3UngI)  
 
 <br>
 
