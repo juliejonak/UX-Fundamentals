@@ -19,13 +19,13 @@ We focus on translating the answers to the who, what, and why of product design 
 
 <br>
 
-Why does UX matter?
+## Why does UX matter?
 
 Nobody wants to use poorly designed products. Poor UX can cause frustration, while great UX might be something that brings a user joy, or they barely notices.
 
 While the experience can be positive, negative or neutral, we focus on the experience and building solutions to improve the experience.
 
-What is a UX designer?
+## What is a UX designer?
 
 There's a lot of ambiguity in design -- who is the user? What are the challenges? Designers conduct research to answer those questions and catalog information carefully to inform our designs. Testing is a integral part of the process.
 
@@ -49,7 +49,7 @@ After that, you can Ideate and Prototype.
 
 <br>
 
-The first assignemnt is [here](https://docs.google.com/document/d/120VeCteA_GRA9oa4P89XiHxaCO0qe0Ls8wXxbPp4Nm0/edit).  
+The first assignment is [here](https://docs.google.com/document/d/120VeCteA_GRA9oa4P89XiHxaCO0qe0Ls8wXxbPp4Nm0/edit).  
 
 Join the daily UI challenge email list [here](https://www.dailyui.co/) to practice designing something each day.
 
