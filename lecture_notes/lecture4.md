@@ -4,9 +4,6 @@ a. [Additional Resources](#Additional-Resources)  <br>
 b. [Design v Art](#Design-v-Art)  <br>  
 c. [Business Design](#Business-Design)  <br>  
 d. [Project Briefs](#Project-Briefs)  <br>  
-e. [](#)  <br>  
-f. [](#)  <br>  
-g. [](#)  <br>  
 
 <br>
 
